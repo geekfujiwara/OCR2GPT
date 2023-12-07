@@ -23,5 +23,6 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/dd571dfd-f4da-41c1-80e8-fb2a659404bc)
 
 ```mermaid
-Power Apps キャンバスアプリ: GeekOCR2GPT --> Dataverse テーブル: プロンプトテンプレート
+graph LR
+Power Apps キャンバスアプリ: GeekOCR2GPT --> Dataverse テーブル: プロンプトテンプレート(Round Rect)
 ```
