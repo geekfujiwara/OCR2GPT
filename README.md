@@ -29,6 +29,7 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/dd571dfd-f4da-41c1-80e8-fb2a659404bc)
 
+
 ```mermaid
 flowchart TD
     GeekOCR2GPT --> プロンプトテンプレート
@@ -40,7 +41,9 @@ flowchart TD
 
 > [!NOTE]
 > アプリを開くことはできますが、ソリューションをインポートしただけではプロンプトテンプレートテーブルにはデータが含まれていません。
+> 
 > ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/3a244b44-6261-4183-9130-a73700f8b597)
+> 
 
 
 テーブルを開きます。
