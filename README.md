@@ -105,15 +105,18 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 
 ソリューションをインポートした時点ではオブジェクトのみが環境に展開されます。
 
-データは移行されませんので、データのインポートを行う必要があります。[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/13604097/mskk_prompttemplates.xlsx)
-
-
-
 > [!NOTE]
 > アプリを開くことはできますが、ソリューションをインポートしただけではプロンプトテンプレートテーブルにはデータが含まれていません。
 > 
 > ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/3a244b44-6261-4183-9130-a73700f8b597)
 > 
+
+データは移行されませんので、データのインポートを行う必要があります。
+
+以下よりプロンプトのサンプルデータをダウンロードしてください。
+
+[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/13604097/mskk_prompttemplates.xlsx)
+
 
 
 テーブルを開きます。
