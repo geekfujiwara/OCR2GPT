@@ -146,11 +146,7 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 
 
 
-サンプルデータはこちらをダウンロードします。
-
-[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/13604102/mskk_prompttemplates.xlsx)
-
-アップロードします。
+サンプルデータをアップロードします。
 
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/b5325198-77bb-416d-9375-758edc812a7a)
 
