@@ -97,14 +97,6 @@ flowchart TD
 
 ## 前提条件
 
-AI Builder のGPT アクションが有効なリージョンで利用する必要があります。
-
-AI Builder GPT アクションは、2023年12月時点では米国リージョンで利用することが可能です(パブリック プレビュー)。
-
-> [!NOTE]
-> 個人の学習用や開発用環境として米国リージョンの環境を取得することができます。
-> 詳細は[こちら](https://learn.microsoft.com/ja-jp/power-apps/maker/maker-create-environment)をご覧ください。
-
 ソリューションは[リリース](https://github.com/geekfujiwara/OCR2GPT/releases)からダウンロードできます。
 
 
@@ -115,7 +107,7 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 
 ## インポート後の警告
 
-この警告は表示言語に関するものです。基本的にはこのまま利用することができます。
+この警告は表示言語に関するものです。表示された場合でも基本的にはこのまま利用することができます。
 
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/47bd2f63-fff8-461a-a41e-39e1cb555561)
 
@@ -184,7 +176,7 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/5cf02878-f962-463d-907d-314b49f8605f)
 
 
-プロンプトテンプレートのデータがインポートサれていることがわかります。
+プロンプトテンプレートのデータがインポートされていることがわかります。
 
 ![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/69fcfe7e-81cb-4621-a870-882f51bad73e)
 
