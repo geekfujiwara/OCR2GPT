@@ -3,10 +3,10 @@
 Power Apps キャンバスアプリのAI Builder テキスト認識エンジン(OCR) とGPT でテキストを作成する アクションを組み合わせたドキュメントOCRソリューションです。
 
 > [!NOTE]
-> AI Builder AI プロンプトとして、GPT の機能が日本でも利用できるようになりましたので、AI Builder AI プロンプトのバージョンにアプリを更新しました。
-> 動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
-> [リージョン別の使用可能な機能](https://learn.microsoft.com/ja-jp/ai-builder/availability-region)
+> AI Builder AI プロンプトとして、[GPT の機能が日本でも利用できるようになりました](https://learn.microsoft.com/ja-jp/ai-builder/availability-region)ので、AI Builder AI プロンプトのバージョンにアプリを更新しました。
 > 日本でのAI プロンプトの利用は[地域間のデータ移動を有効化する](https://learn.microsoft.com/ja-jp/power-platform/admin/geographical-availability-copilot#enable-data-movement-across-regions)必要があります。
+> また、動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
+
 
 # アプリの概要
 
