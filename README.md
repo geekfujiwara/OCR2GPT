@@ -2,12 +2,18 @@
 
 Power Apps キャンバスアプリのAI Builder テキスト認識エンジン(OCR) とGPT でテキストを作成する アクションを組み合わせたドキュメントOCRソリューションです。
 
+> [!NOTE]
+> AI Builder AI プロンプトとして、GPT の機能が日本でも利用できるようになりましたので、AI Builder AI プロンプトのバージョンにアプリを更新しました。
+> 動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
+> [リージョン別の使用可能な機能](https://learn.microsoft.com/ja-jp/ai-builder/availability-region)
+> 日本でのAI プロンプトの利用は[地域間のデータ移動を有効化する](https://learn.microsoft.com/ja-jp/power-platform/admin/geographical-availability-copilot#enable-data-movement-across-regions)必要があります。
+
 # アプリの概要
 
 
-以下の2オブジェクトで構成されています。
+以下の3オブジェクトで構成されています。
 
-![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/dd571dfd-f4da-41c1-80e8-fb2a659404bc)
+![image](https://github.com/geekfujiwara/OCR2GPT/assets/96101315/3ef55726-3a6b-4585-a53e-6c1d681a8c6a)
 
 
 ```mermaid
@@ -18,7 +24,7 @@ flowchart TD
 ## 用意されている機能
 
 * AI Builder テキスト認識エンジンによるOCR でドキュメントの全文テキスト化
-* AI Builder 'GPT でテキストを作成する' でテキストから必要なデータを抽出またはフォーマットに変換
+* AI Builder 'formatGPT' でテキストから必要なデータを抽出またはフォーマットに変換
 * プロンプトテンプレートのデータ登録、更新
 
 
@@ -30,7 +36,7 @@ flowchart TD
 
 > [!NOTE]
 > こちらを参考に他のドキュメントにも適用してみてください。
-> できた結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
+> 他のフォーマットにも対応できた結果についても是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
 
 ### ガソリン給油レシート
 
@@ -130,7 +136,8 @@ AI Builder GPT アクションは、2023年12月時点では米国リージョ�
 
 以下よりプロンプトのサンプルデータをダウンロードしてください。
 
-[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/13604097/mskk_prompttemplates.xlsx)
+
+[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/14315346/mskk_prompttemplates.xlsx)
 
 
 
