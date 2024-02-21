@@ -9,8 +9,11 @@ Power Apps キャンバスアプリのAI Builder テキスト認識エンジン(
 
 # 参考
 [ブログ](https://www.geekfujiwara.com/)
+
 [YouTubeチャンネル](https://www.youtube.com/@geekfujiwara)
+
 [X](https://twitter.com/geekfujiwara)
+
 
 # アプリの概要
 
