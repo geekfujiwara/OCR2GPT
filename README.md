@@ -7,6 +7,10 @@ Power Apps キャンバスアプリのAI Builder テキスト認識エンジン(
 > 日本でのAI プロンプトの利用は[地域間のデータ移動を有効化する](https://learn.microsoft.com/ja-jp/power-platform/admin/geographical-availability-copilot#enable-data-movement-across-regions)必要があります。
 > また、動いたよ、できたよという結果は是非、 [ギークフジワラのXアカウント](https://x.com/Geekfujiwara) までメンションしてご報告ください！！
 
+# 参考
+[ブログ](https://www.geekfujiwara.com/)
+[YouTubeチャンネル](https://www.youtube.com/@geekfujiwara)
+[X](https://twitter.com/geekfujiwara)
 
 # アプリの概要
 
