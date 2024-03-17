@@ -136,7 +136,7 @@ flowchart TD
 以下よりプロンプトのサンプルデータをダウンロードしてください。
 
 
-[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/14315346/mskk_prompttemplates.xlsx)
+[mskk_prompttemplates.xlsx](https://github.com/geekfujiwara/OCR2GPT/files/14628493/mskk_prompttemplates.xlsx)
 
 
 
